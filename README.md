@@ -1,10 +1,10 @@
 # 3550-Project-JWKS-server
 
-Project 2 - Deliverables
-p2.py - main program
-testP2.py - test suite for P2
-gradebot_grade.png - screenshot of gradebot grade for P2
-test_coverage.png - screenshot of test suite coverage % for P2
+Project 2 - Deliverables:
+1. p2.py - main program
+2. testP2.py - test suite for P2
+3. gradebot_grade.png - screenshot of gradebot grade for P2
+4. test_coverage.png - screenshot of test suite coverage % for P2
 
 How to execute program (in VScode): 
 1. Open/run in cmd terminal: 'python p2.py' <- this will start server.
